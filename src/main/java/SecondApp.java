@@ -110,7 +110,6 @@ public class SecondApp {
 
         for (int i = 0; i < arr5.length; i++)
             System.out.print(arr5[i] + " ");
-        //test
 
 
 
